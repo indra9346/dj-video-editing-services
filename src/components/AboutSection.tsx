@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Film, Sparkles, Clock, Palette, Monitor, Zap } from "lucide-react";
 
 const highlights = [
-  { icon: Clock, text: "2+ years of hands-on editing experience" },
+  { icon: Clock, text: "4+ years of hands-on editing experience" },
   { icon: Monitor, text: "Expert in Adobe Premiere Pro & After Effects" },
   { icon: Sparkles, text: "Creative eye for storytelling, pacing & visual rhythm" },
   { icon: Zap, text: "Fast turnaround with high-quality results" },
@@ -27,7 +27,7 @@ const AboutSection = () => {
               <span className="text-gradient">Leave a Mark</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              I'm Deepak Jain, a professional video editor with 2+ years of experience turning raw footage 
+              I'm Deepak Jain, a professional video editor with 4+ years of experience turning raw footage 
               into polished, engaging content. I specialize in YouTube videos, social media reels, promotional 
               ads, short films, and digital media projects.
             </p>
