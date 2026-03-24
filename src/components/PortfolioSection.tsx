@@ -43,13 +43,12 @@ const portfolioData = {
     videos: ["YiykrAOtxkI", "i3j7W6kj4XI"]
   },
   Wedding: {
-    icon: <Heart className="w-6 h-6" />,
-    description: "Romantic wedding storytelling.",
-    bannerImg:
-      "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070",
-    videos: ["CEW2E5R8wDE",
-"o2wqCkF3K7M"]
-  },
+  icon: <Heart className="w-6 h-6" />,
+  description: "Romantic wedding storytelling.",
+  bannerImg:
+    "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070",
+  videos: ["CEW2E5R8wDE", "-1PAf-s_mYY"]
+},
   Podcast: {
     icon: <Mic className="w-6 h-6" />,
     description: "Professional podcast edits.",
