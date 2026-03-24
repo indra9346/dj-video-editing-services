@@ -47,7 +47,8 @@ const portfolioData = {
     description: "Romantic wedding storytelling.",
     bannerImg:
       "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070",
-    videos: ["CEW2E5R0wDE", "-1PAf-s_mYY"]
+    videos: ["CEW2E5R8wDE",
+"o2wqCkF3K7M"]
   },
   Podcast: {
     icon: <Mic className="w-6 h-6" />,
